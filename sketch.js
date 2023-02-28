@@ -132,3 +132,7 @@ class Particle {
   
   
 }
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+
+}
